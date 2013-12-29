@@ -5,6 +5,7 @@ Ser7_Pro_AdHoc
 
 Real Newbie here
 
+
 Attemp to create CWM for Sero7_Pro that will allow Ad Hoc Wi-Fi
 
 The Sero 7 Pro is nearly identical to the Nexus 7 (2012) in those area that are important
@@ -13,6 +14,7 @@ The Sero 7 Pro is nearly identical to the Nexus 7 (2012) in those area that are 
    BCM4330 Broadcom Chip
    Android 4.2
    
+
 
 Ad Hoc Wi-Fi has been successfully added to the Nexus 7 CyanogenMod
 
@@ -26,6 +28,7 @@ documents the required patches
    Android framework and API
    
    Android Settings App
+   
 
 The Sero OEM recently published the Kernel Source Code
 
