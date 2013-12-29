@@ -24,5 +24,5 @@ This documents the required patches and provides code;
 The Sero OEM recently published the Kernel Source Code
 http://hisense-usa.com/support/firmware/Sero%207%20Pro_kernel_opensource_us.tar.gz
 
-The current stock ROM (can be obtained here
+The current stock ROM (P756.6.02.20.00) can be obtained here
 https://skydrive.live.com/redir?resid=F7DECBA5BB726100%21108
