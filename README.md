@@ -7,12 +7,10 @@ Real Newbie here
 
 Attemp to create CWM for Sero7_Pro that will allow Ad Hoc Wi-Fi
 
-to Nexus 7 (2012) in those area that are important
+The Sero 7 Pro is nearly identical to the Nexus 7 (2012) in those area that are important
 
    1.3GHz NVIDIA Tegra 3
-   
    BCM4330 Broadcom Chip
-   
    Android 4.2
    
 
